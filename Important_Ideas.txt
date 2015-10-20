@@ -1,0 +1,4 @@
+1. cd ~ to go to home
+2. ls .. give the wrap up folder (the previous folder)
+3. Careful about space
+4. use arrow in nano for editing text or going up.down

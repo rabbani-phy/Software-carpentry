@@ -1,0 +1,116 @@
+    1  Arif
+    2  pwd
+    3  ls
+    4  ls -a
+    5  ls-l
+    6  ls -l
+    7  ls -la
+    8  clear
+    9  man ls
+   10  man ls
+   11  -
+   12   ls /
+   13  ls /Users/
+   14  ls /users/
+   15  ls /bin
+   16  ls /bin/users]
+   17  ls /users
+   18  ls /u
+   19  clear
+   20  help
+   21  clear
+   22  pwd
+   23  ls
+   24  ls Documents/
+   25  ls Documents/My D
+   26  clear
+   27  ls .
+   28  ls ..
+   29  ls
+   30  ls .
+   31  ls ..
+   32  clear
+   33  ls ..
+   34  ls ../
+   35  ls ..
+   36  ls ../
+   37  ls ../Public/Desktop
+   38  ls ../
+   39  ls ../Public/Desktop
+   40  ls ../Public/Desktop..
+   41  ls ../Public
+   42  pwd
+   43  clear
+   44  cd /
+   45  pwd /
+   46  pwd
+   47  cd Desktop/
+   48  cd ~
+   49  cd
+   50  clear
+   51  cd
+   52  pwd
+   53  ls
+   54  cd Desktop
+   55  pwd
+   56  ls
+   57  pwd
+   58  mkdir SoftwareCarpentry
+   59  ls
+   60  ls
+   61  cd SoftwareCarpentry/
+   62  pwd
+   63  mkdir Terminal Testing
+   64  ls
+   65  mkdir TerminalTerminal
+   66  pwd
+   67  ls
+   68  cd TerminalTerminal/
+   69  nano Important_Ideas
+   70  ls
+   71  nano Important_Ideas
+   72  nano Important_Ideas
+   73  cat Important_Ideas 
+   74  cat -n Important_Ideas 
+   75  ls
+   76  cp Important_Ideas ../
+   77  ls
+   78  ls ..
+   79  pwd
+   80  rm .
+   81  cd ..
+   82  pwd
+   83  rm TerminalTerminal/
+   84  rm -r TerminalTerminal/
+   85  ls
+   86  rm -r T*
+   87  ls
+   88  cp Important_Ideas Importan_Idears.txt
+   89  ls
+   90  mv Important_Ideas  Important_Ideas.txt
+   91  ls
+   92  rm Importan_Idears.txt
+   93  ls
+   94  curl -L -O 
+   95  ls
+   96  curl -L -O http://bit.ly/lylW533
+   97  ls
+   98  wget http:/bit.ly/lylW533
+   99  wget http://bit.ly/lylW533
+  100  cat 
+  101  ls
+  102  tail lylW533 
+  103  ls
+  104  tail pg2701.txt 
+  105  mv pg2701.txt MobyDick.txt
+  106  ls
+  107  cat lylW533
+  108  ls
+  109  wget http://www.gutenberg.org/cache/epub/2701/pg2701.txt
+  110  grep whale MobyDick.txt 
+  111  wc MobyDick.txt 
+  112  wc MobyDick.txt > MobyDickCount.txt
+  113  ls
+  114  cat MobyDickCount.txt 
+  115  history
+  116  history > history.txt
